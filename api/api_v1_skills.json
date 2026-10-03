@@ -1,0 +1,115 @@
+{
+  "count": 25,
+  "categories": {
+    "QA & Testing": [
+      {
+        "name": "Manual & Functional Testing",
+        "level": 95
+      },
+      {
+        "name": "Regression & Exploratory Testing",
+        "level": 94
+      },
+      {
+        "name": "UI/UX & Validation Testing",
+        "level": 92
+      },
+      {
+        "name": "STLC & Test Case Design",
+        "level": 94
+      },
+      {
+        "name": "Bug Reporting & Severity Triage",
+        "level": 95
+      },
+      {
+        "name": "TMS & Client Portal QA",
+        "level": 92
+      }
+    ],
+    "Automation": [
+      {
+        "name": "Selenium (Python)",
+        "level": 88
+      },
+      {
+        "name": "Playwright",
+        "level": 85
+      },
+      {
+        "name": "Pytest Framework",
+        "level": 86
+      },
+      {
+        "name": "Page Object Model (POM)",
+        "level": 88
+      },
+      {
+        "name": "Test Script Automation",
+        "level": 85
+      }
+    ],
+    "API & Performance": [
+      {
+        "name": "Postman (API Testing)",
+        "level": 90
+      },
+      {
+        "name": "REST API Validation",
+        "level": 88
+      },
+      {
+        "name": "JMeter (Performance)",
+        "level": 76
+      }
+    ],
+    "Tools & Methodologies": [
+      {
+        "name": "ClickUp",
+        "level": 94
+      },
+      {
+        "name": "Jira",
+        "level": 88
+      },
+      {
+        "name": "Git / GitHub",
+        "level": 85
+      },
+      {
+        "name": "Trello & Notion",
+        "level": 86
+      },
+      {
+        "name": "Figma (UI Inspection)",
+        "level": 82
+      },
+      {
+        "name": "Agile (Scrum) & SDLC",
+        "level": 92
+      },
+      {
+        "name": "Azure Boards",
+        "level": 92
+      }
+    ],
+    "Programming & Database": [
+      {
+        "name": "Python",
+        "level": 85
+      },
+      {
+        "name": "MySQL (CRUD)",
+        "level": 78
+      },
+      {
+        "name": "HTML & CSS",
+        "level": 85
+      },
+      {
+        "name": "WordPress",
+        "level": 80
+      }
+    ]
+  }
+}

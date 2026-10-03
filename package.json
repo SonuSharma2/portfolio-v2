@@ -1,0 +1,24 @@
+{
+  "name": "sonu-sharma-portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio & QA Automation Showcase for Sonu Sharma — QA Analyst & Test Automation Engineer",
+  "main": "server.py",
+  "scripts": {
+    "start": "python server.py",
+    "dev": "python server.py",
+    "test": "pytest tests/ -v"
+  },
+  "keywords": [
+    "portfolio",
+    "qa-analyst",
+    "test-automation",
+    "selenium",
+    "playwright",
+    "pytest",
+    "azure-boards",
+    "nextjs",
+    "terminal"
+  ],
+  "author": "Sonu Sharma <sonushar059@gmail.com>",
+  "license": "MIT"
+}

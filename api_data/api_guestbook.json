@@ -1,0 +1,46 @@
+{
+  "entries": [
+    {
+      "id": 6,
+      "name": "Sonu Sharma",
+      "message": "Welcome to my portfolio and visitor log!",
+      "mood": "200",
+      "createdAt": "2026-10-03T02:57:58.000Z"
+    },
+    {
+      "id": 5,
+      "name": "Pooja Adhikari",
+      "message": "Awesome work on FigsFlow TMS! Your Azure Boards bug logging and regression cycles keep our releases rock-solid. ",
+      "mood": "200",
+      "createdAt": "2026-10-02T16:20:15.000Z"
+    },
+    {
+      "id": 4,
+      "name": "Ayush Shrestha",
+      "message": "Reviewed the SauceDemo Selenium + Pytest POM framework on your GitHub \u2014 super clean structure and fixtures! ",
+      "mood": "200",
+      "createdAt": "2026-09-29T11:45:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "QA Lead",
+      "message": "Zero critical defects escaped to production. Love the test coverage across client portal AML and onboarding flows.",
+      "mood": "200",
+      "createdAt": "2026-09-25T09:12:30.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Bikash",
+      "message": "Dami portfolio Sonu bro! The interactive terminal modal (Cmd+K) is fire ",
+      "mood": "200",
+      "createdAt": "2026-09-21T14:33:00.000Z"
+    },
+    {
+      "id": 1,
+      "name": "Rohan Dahal",
+      "message": "Top-tier QA testing across Chatboq and TMS. Great to see your work showcased like this!",
+      "mood": "200",
+      "createdAt": "2026-09-18T10:15:00.000Z"
+    }
+  ]
+}

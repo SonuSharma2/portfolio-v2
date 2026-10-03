@@ -1,0 +1,13 @@
+{
+  "name": "sonu-api",
+  "version": "1.0.0",
+  "status": "operational",
+  "docs": "GET any endpoint below. POST /api/contact to get in touch.",
+  "endpoints": [
+    "/api/v1/me",
+    "/api/v1/skills",
+    "/api/v1/experience",
+    "/api/v1/projects",
+    "/api/v1/education"
+  ]
+}

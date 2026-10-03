@@ -1,0 +1,23 @@
+{
+  "count": 3,
+  "results": [
+    {
+      "institution": "Sunway International Business School, IUKL, Nepal",
+      "degree": "Bachelor in Computer Science (Hons)",
+      "period": "2018 \u2013 2022",
+      "description": "Graduated with 3.46 GPA. Specialization in Software Engineering, QA Methodologies, Database Systems, and Final Year Project on Blockchain Voting System."
+    },
+    {
+      "institution": "St. Lawrence College, Kathmandu, Nepal",
+      "degree": "+2 in Science (NEB Board)",
+      "period": "2015 \u2013 2017",
+      "description": "Passed with 66.4% in Science Stream (Physics, Chemistry, Mathematics)."
+    },
+    {
+      "institution": "Shubharambha Secondary School, Kathmandu, Nepal",
+      "degree": "SLC (NEB Board)",
+      "period": "2013 \u2013 2015",
+      "description": "Completed SLC with 75% distinction."
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "settings": {
+    "profile": {
+      "name": "Sonu Sharma",
+      "shortName": "sonu",
+      "title": "QA Analyst",
+      "roles": [
+        "QA Analyst",
+        "FigsFlow TMS & Portal QA",
+        "Test Automation Engineer",
+        "Manual & Regression QA",
+        "API Testing (Postman)"
+      ],
+      "headline": "I break software before users do, and build test suites that never blink.",
+      "summary": "Computer Science graduate with hands-on experience in web application QA, test automation, and development. Skilled in identifying and reporting defects, performing functional, regression, and UI/UX testing, and collaborating directly with developers in Agile teams. Currently QA Analyst at Sterling Wells Services, driving quality assurance on FigsFlow (AI-native practice & task management system) and its Client Portal. Experienced in test automation using Python, Selenium, Playwright, and Pytest (POM), API testing with Postman, and defect tracking in Microsoft Azure Boards, ClickUp, and Jira.",
+      "location": "Chabahil, Kathmandu, Nepal",
+      "timezone": "Asia/Kathmandu",
+      "email": "sonushar059@gmail.com",
+      "phone": "+977-986-047-6428",
+      "showPhone": true,
+      "avatar": "/media/NmK6RWTl9vcH",
+      "resume": "/media/Sonu_Sharma_CV.pdf",
+      "careerStart": "2022-08",
+      "yearsExperience": 3,
+      "available": true,
+      "availabilityText": "Open to QA & Test Automation roles"
+    },
+    "site": {
+      "title": "Sonu Sharma | QA Analyst & Test Automation Engineer",
+      "description": "QA Analyst from Kathmandu skilled in Manual & Automation Testing, Selenium, Playwright, Pytest, API Testing with Postman, and TMS/Client Portal quality assurance.",
+      "keywords": [
+        "Sonu Sharma",
+        "QA Analyst",
+        "Software Tester",
+        "Selenium",
+        "Playwright",
+        "Pytest",
+        "Postman",
+        "STLC",
+        "TMS",
+        "Client Portal",
+        "Kathmandu",
+        "Nepal"
+      ],
+      "url": "",
+      "ogImage": "",
+      "favicon": "/favicon.svg",
+      "footerNote": "Ensuring zero defects before production. Built with Next.js and vigilance.",
+      "bootLines": [
+        "initializing test runner ........... ok",
+        "loading selenium & playwright ...... ok",
+        "configuring pytest fixtures ........ ok",
+        "connecting tms & client portal ..... ok",
+        "executing regression suite [pass] .. ok",
+        "verifying api payloads (postman) ... ok",
+        "binding 0.0.0.0:443 ................ ok"
+      ]
+    },
+    "theme": {
+      "mode": "ink",
+      "accent": "#c6f432",
+      "accent2": "#ff5a36",
+      "grain": true,
+      "radius": 14
+    },
+    "features": {
+      "bootScreen": true,
+      "customCursor": true,
+      "smoothScroll": true,
+      "terminal": true,
+      "apiPlayground": true,
+      "guestbook": true,
+      "guestbookAutoApprove": false,
+      "contactForm": true,
+      "visitorCounter": true,
+      "systemGraph": true
+    },
+    "sections": {
+      "items": [
+        {
+          "id": "about",
+          "enabled": true,
+          "label": "about",
+          "heading": "The engineer behind quality assurance",
+          "intro": ""
+        },
+        {
+          "id": "skills",
+          "enabled": true,
+          "label": "stack",
+          "heading": "requirements.txt",
+          "intro": "Tools, frameworks and methodologies I bring to every test cycle."
+        },
+        {
+          "id": "experience",
+          "enabled": true,
+          "label": "experience",
+          "heading": "git log --graph",
+          "intro": "Every role is a commit. Side quests branch off main."
+        },
+        {
+          "id": "projects",
+          "enabled": true,
+          "label": "work",
+          "heading": "Things I've tested & built",
+          "intro": "Test automation frameworks, SaaS portals, logistics systems and decentralized apps."
+        },
+        {
+          "id": "playground",
+          "enabled": true,
+          "label": "api",
+          "heading": "Don't read my CV. Query it.",
+          "intro": "This portfolio is a real REST API. Pick an endpoint and send a request."
+        },
+        {
+          "id": "education",
+          "enabled": true,
+          "label": "education",
+          "heading": "Where the foundations were laid",
+          "intro": ""
+        },
+        {
+          "id": "guestbook",
+          "enabled": true,
+          "label": "guestbook",
+          "heading": "tail -f visitors.log",
+          "intro": "Leave a line in the logs. Say hi, drop a tip, or just flex your status code."
+        },
+        {
+          "id": "contact",
+          "enabled": true,
+          "label": "contact",
+          "heading": "POST /hire",
+          "intro": "Looking for a QA Analyst to catch bugs before your users do? Send a request."
+        }
+      ]
+    },
+    "integrations": {
+      "web3formsKey": ""
+    }
+  },
+  "skills": [
+    {
+      "id": 1,
+      "name": "Manual & Functional Testing",
+      "category": "QA & Testing",
+      "level": 95,
+      "sortOrder": 0,
+      "visible": true
+    },
+    {
+      "id": 2,
+      "name": "Regression & Exploratory Testing",
+      "category": "QA & Testing",
+      "level": 94,
+      "sortOrder": 1,
+      "visible": true
+    },
+    {
+      "id": 3,
+      "name": "UI/UX & Validation Testing",
+      "category": "QA & Testing",
+      "level": 92,
+      "sortOrder": 2,
+      "visible": true
+    },
+    {
+      "id": 4,
+      "name": "STLC & Test Case Design",
+      "category": "QA & Testing",
+      "level": 94,
+      "sortOrder": 3,
+      "visible": true
+    },
+    {
+      "id": 5,
+      "name": "Bug Reporting & Severity Triage",
+      "category": "QA & Testing",
+      "level": 95,
+      "sortOrder": 4,
+      "visible": true
+    },
+    {
+      "id": 6,
+      "name": "TMS & Client Portal QA",
+      "category": "QA & Testing",
+      "level": 92,
+      "sortOrder": 5,
+      "visible": true
+    },
+    {
+      "id": 7,
+      "name": "Selenium (Python)",
+      "category": "Automation",
+      "level": 88,
+      "sortOrder": 6,
+      "visible": true
+    },
+    {
+      "id": 8,
+      "name": "Playwright",
+      "category": "Automation",
+      "level": 85,
+      "sortOrder": 7,
+      "visible": true
+    },
+    {
+      "id": 9,
+      "name": "Pytest Framework",
+      "category": "Automation",
+      "level": 86,
+      "sortOrder": 8,
+      "visible": true
+    },
+    {
+      "id": 10,
+      "name": "Page Object Model (POM)",
+      "category": "Automation",
+      "level": 88,
+      "sortOrder": 9,
+      "visible": true
+    },
+    {
+      "id": 11,
+      "name": "Test Script Automation",
+      "category": "Automation",
+      "level": 85,
+      "sortOrder": 10,
+      "visible": true
+    },
+    {
+      "id": 12,
+      "name": "Postman (API Testing)",
+      "category": "API & Performance",
+      "level": 90,
+      "sortOrder": 11,
+      "visible": true
+    },
+    {
+      "id": 13,
+      "name": "REST API Validation",
+      "category": "API & Performance",
+      "level": 88,
+      "sortOrder": 12,
+      "visible": true
+    },
+    {
+      "id": 14,
+      "name": "JMeter (Performance)",
+      "category": "API & Performance",
+      "level": 76,
+      "sortOrder": 13,
+      "visible": true
+    },
+    {
+      "id": 15,
+      "name": "ClickUp",
+      "category": "Tools & Methodologies",
+      "level": 94,
+      "sortOrder": 14,
+      "visible": true
+    },
+    {
+      "id": 16,
+      "name": "Jira",
+      "category": "Tools & Methodologies",
+      "level": 88,
+      "sortOrder": 15,
+      "visible": true
+    },
+    {
+      "id": 17,
+      "name": "Git / GitHub",
+      "category": "Tools & Methodologies",
+      "level": 85,
+      "sortOrder": 16,
+      "visible": true
+    },
+    {
+      "id": 18,
+      "name": "Trello & Notion",
+      "category": "Tools & Methodologies",
+      "level": 86,
+      "sortOrder": 17,
+      "visible": true
+    },
+    {
+      "id": 19,
+      "name": "Figma (UI Inspection)",
+      "category": "Tools & Methodologies",
+      "level": 82,
+      "sortOrder": 18,
+      "visible": true
+    },
+    {
+      "id": 20,
+      "name": "Agile (Scrum) & SDLC",
+      "category": "Tools & Methodologies",
+      "level": 92,
+      "sortOrder": 19,
+      "visible": true
+    },
+    {
+      "id": 21,
+      "name": "Python",
+      "category": "Programming & Database",
+      "level": 85,
+      "sortOrder": 20,
+      "visible": true
+    },
+    {
+      "id": 22,
+      "name": "MySQL (CRUD)",
+      "category": "Programming & Database",
+      "level": 78,
+      "sortOrder": 21,
+      "visible": true
+    },
+    {
+      "id": 23,
+      "name": "HTML & CSS",
+      "category": "Programming & Database",
+      "level": 85,
+      "sortOrder": 22,
+      "visible": true
+    },
+    {
+      "id": 24,
+      "name": "WordPress",
+      "category": "Programming & Database",
+      "level": 80,
+      "sortOrder": 23,
+      "visible": true
+    },
+    {
+      "id": 25,
+      "name": "Azure Boards",
+      "category": "Tools & Methodologies",
+      "level": 92,
+      "sortOrder": 14,
+      "visible": true
+    }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "role": "QA Analyst",
+      "company": "Sterling Wells Services",
+      "employmentType": "Full-time",
+      "location": "Kathmandu, Nepal",
+      "startDate": "2026-09",
+      "endDate": "",
+      "track": "main",
+      "bullets": [
+        "Spearheading quality assurance across FigsFlow, an AI-powered SaaS practice & task management system (TMS) and client portal developed by Sterling Wells",
+        "Testing core FigsFlow TMS modules: task workflows, timesheets, team assignments, deadline tracking, and service delivery pipelines",
+        "Validating Client Portal features: KYC/AML compliance checks, client onboarding, proposal generation, engagement letters, and built-in e-signatures",
+        "Logging and managing the defect lifecycle in Microsoft Azure Boards with reproducible steps, logs, and screenshots, tracking bug triage and verifying fixes before deployment"
+      ],
+      "tech": [
+        "FigsFlow",
+        "TMS",
+        "Client Portal",
+        "Azure Boards",
+        "AML/KYC",
+        "Postman",
+        "Regression QA"
+      ],
+      "logo": "https://sterlingwells.com.np/wp-content/uploads/2026/01/FigsFlow-Company-Logo.png",
+      "url": "https://sterlingwells.com.np/",
+      "sortOrder": 0,
+      "visible": true
+    },
+    {
+      "id": 2,
+      "role": "QA Intern",
+      "company": "Brahmabyte Lab",
+      "employmentType": "Internship",
+      "location": "Kathmandu, Nepal",
+      "startDate": "2026-03",
+      "endDate": "2026-06",
+      "track": "main",
+      "bullets": [
+        "Worked as QA intern on Chatboq.com, a SaaS-based AI chatbot platform",
+        "Performed regression, functional, UI/UX, and validation testing across inbox, tickets, visitors, clients, billing, and AI modules",
+        "Developed and maintained automation test scripts using Python, Playwright, and Selenium implementing Page Object Model (POM)",
+        "Reported bugs in ClickUp with detailed steps to reproduce, screenshots, severity, and actionable feedback"
+      ],
+      "tech": [
+        "Python",
+        "Selenium",
+        "Playwright",
+        "Pytest",
+        "ClickUp",
+        "Chatboq.com"
+      ],
+      "logo": "",
+      "url": "https://brahmabytelab.com/",
+      "sortOrder": 1,
+      "visible": true
+    },
+    {
+      "id": 3,
+      "role": "QA Assistant",
+      "company": "Heal Home Care",
+      "employmentType": "Full-time",
+      "location": "Kathmandu, Nepal",
+      "startDate": "2023-11",
+      "endDate": "2025-02",
+      "track": "main",
+      "bullets": [
+        "Tested web platform and mobile application features, identifying and documenting functional and UI issues",
+        "Reported bugs in ClickUp with detailed steps, screenshots, and actionable feedback",
+        "Collaborated directly with developers to verify fixes before production release",
+        "Maintained company website updates and suggested usability improvements"
+      ],
+      "tech": [
+        "Web QA",
+        "Mobile Testing",
+        "ClickUp",
+        "UI Verification",
+        "Usability"
+      ],
+      "logo": "",
+      "url": "https://www.healhomecare.com/",
+      "sortOrder": 2,
+      "visible": true
+    },
+    {
+      "id": 4,
+      "role": "Web Designer (WordPress)",
+      "company": "Freelancer Unit Pvt. Ltd.",
+      "employmentType": "Contract",
+      "location": "Kathmandu, Nepal",
+      "startDate": "2022-08",
+      "endDate": "2023-09",
+      "track": "side",
+      "bullets": [
+        "Developed and maintained WordPress websites based on client requirements",
+        "Reviewed application requirements and interface designs to ensure feasibility and usability",
+        "Conducted functionality checks and validated implemented features before deployment",
+        "Collaborated with clients and developers to refine system requirements and improve output quality"
+      ],
+      "tech": [
+        "WordPress",
+        "HTML",
+        "CSS",
+        "UI Feasibility",
+        "Deployment Testing"
+      ],
+      "logo": "",
+      "url": "https://freelancernepal.com.np/",
+      "sortOrder": 3,
+      "visible": true
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "FigsFlow TMS & Client Portal QA",
+      "tagline": "Quality assurance for Sterling Wells' flagship practice management SaaS",
+      "description": "Comprehensive manual and API testing for FigsFlow (figsflow.com), a SaaS practice management and onboarding ecosystem built by Sterling Wells Services. Assured quality across the Task Management System (TMS), client onboarding flows, AML compliance checks, regulatory engagement letters, and client portal integrations.",
+      "highlights": [
+        "Rigorous testing of FigsFlow Task Management System (TMS) tracking, scheduling, and timesheets",
+        "Client Portal validation: AML/KYC identity checks, proposal generator, and digital e-signing",
+        "Defect tracking and sprint bug management in Microsoft Azure Boards with full reproduction logs",
+        "API endpoint validation with Postman for billing, workflows, and system notifications",
+        "Regression testing across bi-weekly sprint releases ensuring zero critical bugs in production"
+      ],
+      "tech": [
+        "FigsFlow",
+        "TMS",
+        "Client Portal",
+        "Azure Boards",
+        "Postman",
+        "AML Verification",
+        "Regression QA"
+      ],
+      "cover": "",
+      "gallery": [],
+      "liveUrl": "https://figsflow.com",
+      "repoUrl": "",
+      "year": "2026 \u2013 now",
+      "color": "#c6f432",
+      "featured": true,
+      "sortOrder": 0,
+      "visible": true
+    },
+    {
+      "id": 2,
+      "title": "SauceDemo Automation Framework",
+      "tagline": "Automated e-commerce checkout & login with Selenium & Pytest",
+      "description": "Modular automation testing framework built in Python using Selenium WebDriver, Pytest, and Page Object Model (POM) to automate user checkout workflows on SauceDemo with clean reporting.",
+      "highlights": [
+        "Page Object Model (POM) architecture for modular, maintainable code",
+        "Automated login, catalog browsing, cart operations, and checkout validation",
+        "Parametrized test cases with clean Pytest assertions and fixtures",
+        "Open-source repository available on GitHub"
+      ],
+      "tech": [
+        "Python",
+        "Selenium",
+        "Pytest",
+        "POM",
+        "Automation"
+      ],
+      "cover": "",
+      "gallery": [],
+      "liveUrl": "",
+      "repoUrl": "https://github.com/SonuSharma2/SauceDemo-Automation",
+      "year": "2026",
+      "color": "#ff5a36",
+      "featured": true,
+      "sortOrder": 1,
+      "visible": true
+    },
+    {
+      "id": 3,
+      "title": "Chatboq SaaS QA Suite",
+      "tagline": "Multi-module validation & automation for AI chatbot platform",
+      "description": "Rigorous QA testing for Chatboq.com SaaS platform covering chat inbox, ticketing, visitor tracking, billing tiers, and AI bot response handling. Created automated Playwright and Selenium suites.",
+      "highlights": [
+        "Playwright and Selenium automation test scripts for critical user journeys",
+        "Full test case coverage for inbox, ticketing, billing, and AI conversational modules",
+        "Defect management in ClickUp with reproduction steps, severity, and screenshots",
+        "Frontend element inspection and UI/UX layout validation"
+      ],
+      "tech": [
+        "Playwright",
+        "Selenium",
+        "Python",
+        "ClickUp",
+        "SaaS QA"
+      ],
+      "cover": "",
+      "gallery": [],
+      "liveUrl": "https://chatboq.com",
+      "repoUrl": "",
+      "year": "2026",
+      "color": "#8b7bff",
+      "featured": true,
+      "sortOrder": 2,
+      "visible": true
+    },
+    {
+      "id": 4,
+      "title": "Blockchain Based Voting System",
+      "tagline": "Decentralized voting platform built on Ethereum",
+      "description": "Final year project developing a transparent, tamper-proof voting system on the Ethereum blockchain to eliminate fraud, protect ballot privacy, and ensure verifiable audit trails.",
+      "highlights": [
+        "Smart contracts deployed on Ethereum blockchain",
+        "Successfully conducted pilot testing with 150 participants",
+        "Zero ballot tampering and verified vote tallying",
+        "Positive feedback for transparency, usability, and data security"
+      ],
+      "tech": [
+        "Ethereum",
+        "Blockchain",
+        "Smart Contracts",
+        "Web3",
+        "Security Testing"
+      ],
+      "cover": "",
+      "gallery": [],
+      "liveUrl": "",
+      "repoUrl": "",
+      "year": "2022",
+      "color": "#36c2ff",
+      "featured": false,
+      "sortOrder": 3,
+      "visible": true
+    },
+    {
+      "id": 5,
+      "title": "Bus Ticket Booking System",
+      "tagline": "Java reservation system with real-time seat tracking",
+      "description": "Class project in Java implementing core OOP principles, file handling, real-time seat availability tracking, dynamic fare calculation, and admin schedule management.",
+      "highlights": [
+        "Real-time seat tracking and passenger ticket booking management",
+        "Dynamic fare calculation, reservation, and cancellation workflows",
+        "Admin portal to configure routes, bus schedules, and pricing",
+        "Edge-case verification and data integrity testing"
+      ],
+      "tech": [
+        "Java",
+        "OOP",
+        "File Handling",
+        "System Testing"
+      ],
+      "cover": "",
+      "gallery": [],
+      "liveUrl": "",
+      "repoUrl": "",
+      "year": "2021",
+      "color": "#f5c542",
+      "featured": false,
+      "sortOrder": 4,
+      "visible": true
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "institution": "Sunway International Business School, IUKL, Nepal",
+      "degree": "Bachelor in Computer Science (Hons)",
+      "startYear": "2018",
+      "endYear": "2022",
+      "description": "Graduated with 3.46 GPA. Specialization in Software Engineering, QA Methodologies, Database Systems, and Final Year Project on Blockchain Voting System.",
+      "logo": "",
+      "sortOrder": 0,
+      "visible": true
+    },
+    {
+      "id": 2,
+      "institution": "St. Lawrence College, Kathmandu, Nepal",
+      "degree": "+2 in Science (NEB Board)",
+      "startYear": "2015",
+      "endYear": "2017",
+      "description": "Passed with 66.4% in Science Stream (Physics, Chemistry, Mathematics).",
+      "logo": "",
+      "sortOrder": 1,
+      "visible": true
+    },
+    {
+      "id": 3,
+      "institution": "Shubharambha Secondary School, Kathmandu, Nepal",
+      "degree": "SLC (NEB Board)",
+      "startYear": "2013",
+      "endYear": "2015",
+      "description": "Completed SLC with 75% distinction.",
+      "logo": "",
+      "sortOrder": 2,
+      "visible": true
+    }
+  ],
+  "socials": [
+    {
+      "id": 1,
+      "label": "GitHub",
+      "url": "https://github.com/SonuSharma2",
+      "icon": "github",
+      "handle": "@SonuSharma2",
+      "sortOrder": 0,
+      "visible": true
+    },
+    {
+      "id": 2,
+      "label": "Email",
+      "url": "mailto:sonushar059@gmail.com",
+      "icon": "mail",
+      "handle": "sonushar059@gmail.com",
+      "sortOrder": 1,
+      "visible": true
+    },
+    {
+      "id": 3,
+      "label": "Phone",
+      "url": "tel:+9779860476428",
+      "icon": "phone",
+      "handle": "+977-986-047-6428",
+      "sortOrder": 2,
+      "visible": true
+    }
+  ]
+}

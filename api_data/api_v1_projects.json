@@ -1,0 +1,122 @@
+{
+  "count": 5,
+  "results": [
+    {
+      "id": 1,
+      "title": "FigsFlow TMS & Client Portal QA",
+      "tagline": "Quality assurance for Sterling Wells' flagship practice management SaaS",
+      "description": "Comprehensive manual and API testing for FigsFlow (figsflow.com), a SaaS practice management and onboarding ecosystem built by Sterling Wells Services. Assured quality across the Task Management System (TMS), client onboarding flows, AML compliance checks, regulatory engagement letters, and client portal integrations.",
+      "highlights": [
+        "Rigorous testing of FigsFlow Task Management System (TMS) tracking, scheduling, and timesheets",
+        "Client Portal validation: AML/KYC identity checks, proposal generator, and digital e-signing",
+        "Defect tracking and sprint bug management in Microsoft Azure Boards with full reproduction logs",
+        "API endpoint validation with Postman for billing, workflows, and system notifications",
+        "Regression testing across bi-weekly sprint releases ensuring zero critical bugs in production"
+      ],
+      "stack": [
+        "FigsFlow",
+        "TMS",
+        "Client Portal",
+        "Azure Boards",
+        "Postman",
+        "AML Verification",
+        "Regression QA"
+      ],
+      "year": "2026 \u2013 now",
+      "featured": true,
+      "live": "https://figsflow.com",
+      "repo": ""
+    },
+    {
+      "id": 2,
+      "title": "SauceDemo Automation Framework",
+      "tagline": "Automated e-commerce checkout & login with Selenium & Pytest",
+      "description": "Modular automation testing framework built in Python using Selenium WebDriver, Pytest, and Page Object Model (POM) to automate user checkout workflows on SauceDemo with clean reporting.",
+      "highlights": [
+        "Page Object Model (POM) architecture for modular, maintainable code",
+        "Automated login, catalog browsing, cart operations, and checkout validation",
+        "Parametrized test cases with clean Pytest assertions and fixtures",
+        "Open-source repository available on GitHub"
+      ],
+      "stack": [
+        "Python",
+        "Selenium",
+        "Pytest",
+        "POM",
+        "Automation"
+      ],
+      "year": "2026",
+      "featured": true,
+      "live": "",
+      "repo": "https://github.com/SonuSharma2/SauceDemo-Automation"
+    },
+    {
+      "id": 3,
+      "title": "Chatboq SaaS QA Suite",
+      "tagline": "Multi-module validation & automation for AI chatbot platform",
+      "description": "Rigorous QA testing for Chatboq.com SaaS platform covering chat inbox, ticketing, visitor tracking, billing tiers, and AI bot response handling. Created automated Playwright and Selenium suites.",
+      "highlights": [
+        "Playwright and Selenium automation test scripts for critical user journeys",
+        "Full test case coverage for inbox, ticketing, billing, and AI conversational modules",
+        "Defect management in ClickUp with reproduction steps, severity, and screenshots",
+        "Frontend element inspection and UI/UX layout validation"
+      ],
+      "stack": [
+        "Playwright",
+        "Selenium",
+        "Python",
+        "ClickUp",
+        "SaaS QA"
+      ],
+      "year": "2026",
+      "featured": true,
+      "live": "https://chatboq.com",
+      "repo": ""
+    },
+    {
+      "id": 4,
+      "title": "Blockchain Based Voting System",
+      "tagline": "Decentralized voting platform built on Ethereum",
+      "description": "Final year project developing a transparent, tamper-proof voting system on the Ethereum blockchain to eliminate fraud, protect ballot privacy, and ensure verifiable audit trails.",
+      "highlights": [
+        "Smart contracts deployed on Ethereum blockchain",
+        "Successfully conducted pilot testing with 150 participants",
+        "Zero ballot tampering and verified vote tallying",
+        "Positive feedback for transparency, usability, and data security"
+      ],
+      "stack": [
+        "Ethereum",
+        "Blockchain",
+        "Smart Contracts",
+        "Web3",
+        "Security Testing"
+      ],
+      "year": "2022",
+      "featured": false,
+      "live": "",
+      "repo": ""
+    },
+    {
+      "id": 5,
+      "title": "Bus Ticket Booking System",
+      "tagline": "Java reservation system with real-time seat tracking",
+      "description": "Class project in Java implementing core OOP principles, file handling, real-time seat availability tracking, dynamic fare calculation, and admin schedule management.",
+      "highlights": [
+        "Real-time seat tracking and passenger ticket booking management",
+        "Dynamic fare calculation, reservation, and cancellation workflows",
+        "Admin portal to configure routes, bus schedules, and pricing",
+        "Edge-case verification and data integrity testing"
+      ],
+      "stack": [
+        "Java",
+        "OOP",
+        "File Handling",
+        "System Testing"
+      ],
+      "year": "2021",
+      "featured": false,
+      "live": "",
+      "repo": ""
+    }
+  ]
+}

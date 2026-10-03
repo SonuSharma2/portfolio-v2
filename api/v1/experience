@@ -1,0 +1,104 @@
+{
+  "count": 4,
+  "results": [
+    {
+      "id": 1,
+      "role": "QA Analyst",
+      "company": "Sterling Wells Services",
+      "type": "Full-time",
+      "location": "Kathmandu, Nepal",
+      "period": "2026-09 \u2013 Present",
+      "duration": "Continuing",
+      "current": true,
+      "highlights": [
+        "Spearheading quality assurance across FigsFlow, an AI-powered SaaS practice & task management system (TMS) and client portal developed by Sterling Wells",
+        "Testing core FigsFlow TMS modules: task workflows, timesheets, team assignments, deadline tracking, and service delivery pipelines",
+        "Validating Client Portal features: KYC/AML compliance checks, client onboarding, proposal generation, engagement letters, and built-in e-signatures",
+        "Logging and managing the defect lifecycle in Microsoft Azure Boards with reproducible steps, logs, and screenshots, tracking bug triage and verifying fixes before deployment"
+      ],
+      "stack": [
+        "FigsFlow",
+        "TMS",
+        "Client Portal",
+        "Azure Boards",
+        "AML/KYC",
+        "Postman",
+        "Regression QA"
+      ],
+      "url": "https://sterlingwells.com.np/"
+    },
+    {
+      "id": 2,
+      "role": "QA Intern",
+      "company": "Brahmabyte Lab",
+      "type": "Internship",
+      "location": "Kathmandu, Nepal",
+      "period": "2026-03 \u2013 2026-06",
+      "duration": "",
+      "current": false,
+      "highlights": [
+        "Worked as QA intern on Chatboq.com, a SaaS-based AI chatbot platform",
+        "Performed regression, functional, UI/UX, and validation testing across inbox, tickets, visitors, clients, billing, and AI modules",
+        "Developed and maintained automation test scripts using Python, Playwright, and Selenium implementing Page Object Model (POM)",
+        "Reported bugs in ClickUp with detailed steps to reproduce, screenshots, severity, and actionable feedback"
+      ],
+      "stack": [
+        "Python",
+        "Selenium",
+        "Playwright",
+        "Pytest",
+        "ClickUp",
+        "Chatboq.com"
+      ],
+      "url": "https://brahmabytelab.com/"
+    },
+    {
+      "id": 3,
+      "role": "QA Assistant",
+      "company": "Heal Home Care",
+      "type": "Full-time",
+      "location": "Kathmandu, Nepal",
+      "period": "2023-11 \u2013 2025-02",
+      "duration": "",
+      "current": false,
+      "highlights": [
+        "Tested web platform and mobile application features, identifying and documenting functional and UI issues",
+        "Reported bugs in ClickUp with detailed steps, screenshots, and actionable feedback",
+        "Collaborated directly with developers to verify fixes before production release",
+        "Maintained company website updates and suggested usability improvements"
+      ],
+      "stack": [
+        "Web QA",
+        "Mobile Testing",
+        "ClickUp",
+        "UI Verification",
+        "Usability"
+      ],
+      "url": "https://www.healhomecare.com/"
+    },
+    {
+      "id": 4,
+      "role": "Web Designer (WordPress)",
+      "company": "Freelancer Unit Pvt. Ltd.",
+      "type": "Contract",
+      "location": "Kathmandu, Nepal",
+      "period": "2022-08 \u2013 2023-09",
+      "duration": "",
+      "current": false,
+      "highlights": [
+        "Developed and maintained WordPress websites based on client requirements",
+        "Reviewed application requirements and interface designs to ensure feasibility and usability",
+        "Conducted functionality checks and validated implemented features before deployment",
+        "Collaborated with clients and developers to refine system requirements and improve output quality"
+      ],
+      "stack": [
+        "WordPress",
+        "HTML",
+        "CSS",
+        "UI Feasibility",
+        "Deployment Testing"
+      ],
+      "url": "https://freelancernepal.com.np/"
+    }
+  ]
+}
