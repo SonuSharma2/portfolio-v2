@@ -23,7 +23,8 @@ window.SUPABASE_CONFIG = {
             body: JSON.stringify({
               name: (body.name || 'Anonymous').trim(),
               message: (body.message || '').trim(),
-              mood: String(body.mood || '200')
+              mood: String(body.mood || '200'),
+              approved: false
             })
           });
           const rows = await res.json();
@@ -38,7 +39,7 @@ window.SUPABASE_CONFIG = {
         }
       } else if (!options || !options.method || options.method === 'GET') {
         try {
-          const res = await origFetch(sbUrl + '/rest/v1/guestbook?select=*&order=id.desc', {
+          const res = await origFetch(sbUrl + '/rest/v1/guestbook?select=*&approved=eq.true&order=id.desc', {
             headers: {
               'apikey': sbKey,
               'Authorization': 'Bearer ' + sbKey
